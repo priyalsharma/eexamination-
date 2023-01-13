@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="canvas" id="svg-editor-canvas" width="100%" height="100%" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink"><g class="logo__item" id="logo__item--business" data-item-type="text" data-item="Business">
+                <g class="logo__item__inner" transform="translate(536.33 393.501) scale(1) rotate(0)">
+                    <text letter-spacing="0px" font-family="Montserrat" font-size="32px" font-style="normal" font-weight="bold" alignment-baseline="auto" dominant-baseline="auto" fill="#0ddbf2" dy="0" data-ttf-url="/builder_assets/fontsttf/font-montserrat-bold-normal.ttf" data-font-style="normal" data-font-weight="bold" data-font-family="Montserrat" data-part-id="logo__item--business" data-font-filename="montserrat-bold-normal">eExamination</text>
+                </g>
+            </g><g class="logo__item" id="logo__item--tagline_1" data-item-type="text" data-item="Tagline">
+    <g class="logo__item__inner" transform="translate(511.79 419.201) scale(1) rotate(0)">
+        <text letter-spacing="1px" font-family="Open Sans" font-size="18px" font-style="normal" font-weight="normal" alignment-baseline="auto" dominant-baseline="auto" fill="#f2380d" dy="0" data-ttf-url="/builder_assets/fontsttf/font-open-sans-normal-normal.ttf" data-font-style="normal" data-font-weight="normal" data-font-family="Open Sans" data-part-id="logo__item--tagline_1__0" data-font-filename="open-sans-normal-normal">....learn together with technology</text>
+    </g>
+</g><g class="logo__item logo__item--active" id="logo__item--logo_0" data-item-type="image" data-item="Image" data-logo-item="">
+    <g class="logo__item__inner" transform="translate(575.653 225.5) scale(1.37982) rotate(0)">
+        
+<g>
+	<g>
+		<g>
+			<polygon fill="#8cff00" points="51.914,93.484 17.373,93.484 17.373,86.125 44.551,86.125 44.551,56.549 51.914,40.543" data-part-id="logo__item--logo_0__0" />
+		</g>
+	</g>
+	<g>
+		<rect fill="#8cff00" x="33.019" y="61.744" width="7.359" height="22.449" data-part-id="logo__item--logo_0__1" />
+	</g>
+	<g>
+		<rect fill="#8cff00" x="21.311" y="67.354" width="7.36" height="16.84" data-part-id="logo__item--logo_0__2" />
+	</g>
+	<path fill="#8cff00" d="M 52.299 40.03 c 0 0 -13.708 0.539 -12.257 -13.374 c 1.452 -13.92 -0.423 -18.323 -2.353 -20.14 C 44.25 8.542 61.965 15.57 52.299 40.03 Z" data-part-id="logo__item--logo_0__3" />
+	<path fill="#8cff00" d="M 52.285 39.931 c 0 0 8.072 -5.198 12.146 3.713 c 4.071 8.911 6.764 10.901 8.575 11.309 C 68.33 56.064 55.148 58.123 52.285 39.931 Z" data-part-id="logo__item--logo_0__4" />
+	<path fill="#8cff00" d="M 52.285 39.939 c 0 0 1.344 -13.651 14.938 -10.299 c 13.586 3.345 18.2 2.099 20.268 0.437 C 84.579 36.296 75.184 52.877 52.285 39.939 Z" data-part-id="logo__item--logo_0__5" />
+</g>
+
+    </g>
+</g></svg>
